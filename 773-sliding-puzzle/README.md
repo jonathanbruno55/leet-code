@@ -77,3 +77,8 @@ The problem is solved using **Breadth-First Search (BFS)**:
    ```bash
    javac SlidingPuzzle.java
    ```
+3. Run the program:
+   ```bash
+   java SlidingPuzzle
+   ```
+4. The program will output the results for the provided test cases.
