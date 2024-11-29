@@ -1,5 +1,6 @@
 import java.util.*;
 
+@SuppressWarnings("unused")
 public class FindChampionII {
     public int findChampion(int n, int[][] edges) {
         // Step 1: Initialize in-degree array
